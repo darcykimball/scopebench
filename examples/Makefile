@@ -1,4 +1,4 @@
-CXX = clang++5.0
+CXX = clang++-5.0
 CXXFLAGS = -std=c++14 -I ../include
 
 all: with_log without_log
